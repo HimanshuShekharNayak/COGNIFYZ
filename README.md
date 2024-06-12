@@ -1,0 +1,2 @@
+# COGNIFYZ
+UI/UX Internship
